@@ -77,7 +77,6 @@ Figure 5: Visual Comparison of Interpolation Quality
 [3] Baker, Simon, et al. "A database and evaluation methodology for optical flow." International journal of computer vision 92 (2011): 1-31.S. 
 
 # How to Use
-Dataset Preparation:
 
 Use scripts to extract frames and create .tfrecord files.
 Ensure augmentation settings align with the model's input requirements.
