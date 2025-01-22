@@ -48,19 +48,25 @@ Synthesized frames: Even-numbered (e.g., frame 2).
 Sample Outputs
 The synthesized frames bridge temporal gaps between input frames, providing smoother playback. For optimal comparison, view the provided interpolated videos below.
 
-Figures
-Figure 1: Model Architecture ([1])
+# Figures
+![image](https://github.com/user-attachments/assets/20ad0718-2305-4d70-815d-3a8b9dd1251a)
+Figure 1: Model Architecture
+![image](https://github.com/user-attachments/assets/1de47646-fbf9-40cc-bbd3-f7040a9c6030)
+
 Figure 2: Block Diagram
+![image](https://github.com/user-attachments/assets/6959a3e7-8eec-49ab-b514-f26f9b530be0)
+
 Figure 3: Custom Loss Function Analysis
 ![image](https://github.com/user-attachments/assets/2b7f6a5b-c5e5-449f-956c-ec5e120834ee)
+Figure 4: Interpolation from Frame 1 and Frame 3
 
-![image](https://github.com/user-attachments/assets/df9119c1-4574-4f4d-8a5e-8a6fe29eed91)
-
+<img width="594" alt="image" src="https://github.com/user-attachments/assets/b9958624-bb2d-4dbc-90a0-3044e3270501" />
 Figure 5: Visual Comparison of Interpolation Quality
-References
-[Paper Title and Authors] - Methodology reference for adaptive separable convolution.
-Optical Flow Estimation - Techniques from OpenCV for preprocessing.
-Structural Similarity Index (SSIM) - Evaluation metric for perceptual quality.
+
+# References
+[1] Niklaus, Simon, Long Mai, and Feng Liu. "Video frame interpolation via adaptive separable convolution." Proceedings of the IEEE international conference on computer vision. 2017.
+[2] Hochreiter, Sepp, and Jürgen Schmidhuber. "Long short-term memory." Neural computation 9.8 (1997): 1735-1780.
+[3] Baker, Simon, et al. "A database and evaluation methodology for optical flow." International journal of computer vision 92 (2011): 1-31.S. 
 
 # How to Use
 Dataset Preparation:
