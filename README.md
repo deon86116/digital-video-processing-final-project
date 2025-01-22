@@ -50,14 +50,23 @@ The synthesized frames bridge temporal gaps between input frames, providing smoo
 
 # Figures
 ![image](https://github.com/user-attachments/assets/20ad0718-2305-4d70-815d-3a8b9dd1251a)
+
 Figure 1: Model Architecture
+
 ![image](https://github.com/user-attachments/assets/1de47646-fbf9-40cc-bbd3-f7040a9c6030)
+
 Figure 2: Block Diagram
+
 ![image](https://github.com/user-attachments/assets/6959a3e7-8eec-49ab-b514-f26f9b530be0)
+
 Figure 3: Custom Loss Function Analysis
+
 ![image](https://github.com/user-attachments/assets/2b7f6a5b-c5e5-449f-956c-ec5e120834ee)
+
 Figure 4: Interpolation from Frame 1 and Frame 3
+
 <img width="594" alt="image" src="https://github.com/user-attachments/assets/b9958624-bb2d-4dbc-90a0-3044e3270501" />
+
 Figure 5: Visual Comparison of Interpolation Quality
 
 # References
